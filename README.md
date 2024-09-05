@@ -1,2 +1,2 @@
 # Python
-My C projects
+My Python projects
